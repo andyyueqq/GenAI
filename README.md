@@ -12,4 +12,4 @@ To complete this assignment, I initialized a local repository using `git init` a
 * `1. repository setup`
 
 ### Video Walkthrough
-[把你的 YouTube 或 Vimeo Unlisted 链接粘贴在这里]
+https://youtu.be/BN0I8I8xtKg
